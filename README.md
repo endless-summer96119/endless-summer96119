@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on develop some projects
 - 📫 How to reach me: wechat koharubiyori2024
-- ⚡ Fun fact: i have two cats and a rabbit
+- ⚡ Fun fact: i have two cats and a puppy
 
 <!---
 endless-summer96119/endless-summer96119 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
